@@ -10,7 +10,7 @@ public class PainelController {
 	@RequestMapping("index")
 	public String inicio(){
 		
-		return "Moleque";
+		return "Estamos de olho";
 	}
 
 }
